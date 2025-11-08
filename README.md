@@ -1,4 +1,4 @@
-# HTML/CSS and JavaScript Calculators
+# HTML/CSS and JavaScript Calculator
 
 This repository contain a Modern calculator built with HTML, CSS, and JavaScript.
 
